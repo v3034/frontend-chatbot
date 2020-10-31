@@ -1,26 +1,27 @@
 # frontend-chatbot
 
-Team members are : 18PA1A0557 , 18PA1A04F9 , 18PA1A05B2 // We, together done this project sir .
+Team members are : 18PA1A0557 , 18PA1A04F9 , 18PA1A05B2 // We, together done this project .
 
-Objective: This is our frontend which is "Kiddo Amuesment Park
+Objective: This is our chatbot which is "Kiddo Amuesment Park
 
-This is the explanation of our frontend webpage.............
+This is the explanation of our chatbot.............
 
-1.In the home page we write that our park name which is Kiddo Amusement park
+1.Firstly we put the heading as kiddo amusement park and some details about the park
 
-2.Some Information Kiddo Amusement park
+2.Our bot wishes us and tell how to start the conversation.
 
-3.Based on our interest we have to select the options which are there like Morning,Afternoon,Evening.
+3.After we start the conversation it gives the details about kiddo amusement park and shows we have!.
 
-4.After selecting the option then we enter into that page In morning we have three shows namely Dolphin show,Ethic Museum,Snack hunt.For every show we have specific cost.we have to pay the amount.After Entering the amount we get the page shows "Enjoy the show".
+4.And now it gives the information of morning(1),Afternoon(2),Evening(3),End the Chat(4). If we enter 1 it gives that we have to enter the Shiny Morning,after we enter it tells the details about morning shows !
 
-5.After selecting the option then we enter into that page In Afternoon we have three shows namely Water rides,Under water rides,Wave pools.For every show we have specific cost.we have to pay the amount.After Entering the amount we get the page shows "Enjoy the show".
+5.If we enter 2 it gives that we have to enter the Matinee Afternoon,after we enter it gives the details about Afternoon  shows !
 
-6.After selecting the option then we enter into that page In Evening we have three shows namely Roller coster,Gaint Wheel,Planetary model .For every show we have specific cost.we have to pay the amount.After Entering the amount we get the page shows "Enjoy the show".
+6.If we enter 3 it gives that we have to enter the Teatime Evening,after we enter it gives the details about Evening  shows !
 
-7.finally this is all about our project!!
+7.If we enter 4 it thanks us and again gives the details about how to restart the bot !.
 
-repl.it link of our kiddo amusement park: https://RottenSaddlebrownWorkers.v3034.repl.co
+8.This is about our chatbot Kidoo Amusement park......
 
-youtube link : https://youtu.be/JUAz_NDD6ak
 
+repl.it link for our chatbot.....https://chatbot.v3034.repl.co
+Youtube link for our chatbot.....https://youtu.be/x0XLW1oFzH0
